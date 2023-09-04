@@ -19,7 +19,7 @@
     },
     "devDependencies": {
       "autoprefixer": "^10.4.8",
-        "contentful-export": "^7.18.0",
+        "contentful-export": "^7.19.72",
         "contentful-import": "^8.5.34",
         "dotenv": "^16.0.3",
         "eslint": "8.21.0",
