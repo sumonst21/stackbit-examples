@@ -21,7 +21,7 @@
         "eslint": "8.21.0",
         "eslint-config-next": "12.2.3",
         "fs-extra": "^10.1.0",
-        "postcss": "^8.4.14",
+        "postcss": "^8.4.31",
         "tailwindcss": "^3.1.7"
     }
 }
