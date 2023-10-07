@@ -27,7 +27,7 @@
         "eslint": "^8.42.0",
         "eslint-config-next": "^13.4.6",
         "js-yaml": "^4.1.0",
-        "postcss": "^8.4.24",
+        "postcss": "^8.4.31",
         "prettier": "^2.8.8",
         "typescript": "^5.1.3"
     },
