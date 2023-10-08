@@ -43,7 +43,7 @@
     "eslint": "^7.29.0",
     "eslint-config-next": "^11.1.4",
     "eslint-config-prettier": "^8.5.0",
-    "postcss": "^8.4.8",
+    "postcss": "^8.4.31",
     "postcss-import": "^14.0.2",
     "postcss-nested": "^5.0.6",
     "prettier": "^2.5.1",
